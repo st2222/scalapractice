@@ -1,2 +1,2 @@
 # Scalapractice 
-# Scalaで書いたものをたまに上げる用
+### Scalaで書いたものをたまに上げる用
